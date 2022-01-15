@@ -1,0 +1,31 @@
+.navbar {
+  display: flex;
+  gap: 25%;
+  justify-content: center;
+}
+.navbar h2 {
+  color: palevioletred;
+  font-size: 1.2em;
+  margin: 1em;
+  padding: 0.25em 1em;
+  border: 2px solid palevioletred;
+  border-radius: 3px;
+  text-decoration: none;
+}
+.Link {
+  text-decoration: none;
+}
+.register input {
+  width: 25%;
+  height: 20px;
+  margin-top: 8px;
+  border-radius: 4px;
+  background-color: white;
+  text-align: center;
+}
+.register .regsubmit {
+  background-color: turquoise;
+  width: 8%;
+  height: 25px;
+}
+
